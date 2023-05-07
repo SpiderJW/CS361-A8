@@ -27,4 +27,5 @@ Start Here:
 5. Follow instructions in Client
 
 UML Sequence Diagram:
+
 <img width="378" alt="UML Diagram" src="https://user-images.githubusercontent.com/84735585/236694331-1d9157c7-08bd-4b1a-8cb6-7edbdf90e146.png">
