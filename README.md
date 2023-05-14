@@ -23,8 +23,10 @@ Start Here:
 1. Install python and relevant packages on your IDE.
 2. Download Server.py and Client.py
 3. Change line 35 to: 
+
 imageList = os.listdir("C:/your file directory/national park images folders)
 5. Change line 43 to: 
+
 dirAndFile = "national park images folders\\" + image
 6. First run the Server.py in Terminal/powershell
 7. Then run Client.py in the terminal/powershell
