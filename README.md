@@ -19,11 +19,14 @@ and waits for search query from app/user that is supposed to be the name of Nati
 Upon successful retrieval, Client.py will show location path of image that is stored locally. Otherwise an error message will be
 returned to the Client.py. Client.py closes after each retrieval or error. Client.py can close the Server.py via "quit" command.
 
-Start Here:
+Start Here (PLEASE CLICK ON THE README FILE AND VIEW IN GITHUB CODE TAB; PREVIEW TAB MESSES UP STEP 4):
 1. Install python and relevant packages on your IDE.
 2. Download Server.py and Client.py
 3. Change line 35 to: imageList = os.listdir("C:/your file directory/national park images folder)
-4. Change line 43 to: dirAndFile = "national park images folder\\" + image (PLEASE NOTE "national park images folder should end in a backslash and therefore should be written with double backslash at the end in code. This does not appear correectly in GitHub readme!
+4. Change line 43 to: dirAndFile = "national park images folder\\" + image 
+
+(PLEASE NOTE "national park images folder should end in a backslash and therefore should be written with double backslash at the end in code. This does not appear correectly in GitHub readme preview! View in Github code tab view.
+
 5. First run the Server.py in Terminal/powershell
 6. Then run Client.py in the terminal/powershell
 7. Follow instructions in Client
